@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Shakila, a passionate Applied Mathematics student at Wrocław University of Science and Technology, set to graduate in September 2024. I love exploring data, solving complex problems, and teaching mathematics. Welcome to my GitHub profile!
+I'm Shakila, a passionate Applied Mathematics graduate from Wrocław University of Science and Technology. I love exploring data, solving complex problems and have a passion foe teaching mathematics. I have a strong enthusiasm for FinTech, risk modeling and financial analysis. Welcome to my GitHub profile!
 
 ## Skills and Technologies
 - **Languages:** Python
@@ -10,7 +10,7 @@ I'm Shakila, a passionate Applied Mathematics student at Wrocław University of 
 
 
 ## Education
-- **M.Sc. in Applied Mathematics** - Wrocław University of Science and Technology (Expected: September 2024)
+- **M.Sc. in Applied Mathematics** - Wrocław University of Science and Technology (19th September 2024)
 
 
 
