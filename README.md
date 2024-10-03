@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Shakila, a passionate Applied Mathematics graduate from Wrocław University of Science and Technology. I love exploring data, solving complex problems and have a passion foe teaching mathematics. I have a strong enthusiasm for FinTech, risk modeling and financial analysis. Welcome to my GitHub profile!
+I'm Shakila, a passionate Applied Mathematics graduate from Wrocław University of Science and Technology. I love exploring data, solving complex problems and have a passion for teaching . I have a strong enthusiasm for FinTech, risk modeling and financial analysis. Welcome to my GitHub profile!
 
 ## Skills and Technologies
 - **Languages:** Python
